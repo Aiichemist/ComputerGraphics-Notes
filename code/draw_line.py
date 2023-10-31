@@ -82,6 +82,7 @@ def draw_line(points):
     for point in points:
         x.append(point[0])
         y.append(point[1])
+    # 绘制散点图
     plt.scatter(x, y, s=1)
     plt.show()
 

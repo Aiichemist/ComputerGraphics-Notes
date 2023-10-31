@@ -82,7 +82,7 @@ def draw_line(points):
     for point in points:
         x.append(point[0])
         y.append(point[1])
-    plt.plot(x, y, color='r', linestyle='-', marker='o')
+    plt.scatter(x, y, s=1)
     plt.show()
 
 if __name__ == '__main__':

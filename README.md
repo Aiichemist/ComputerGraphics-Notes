@@ -1,4 +1,4 @@
-# Compyter Graphic notes
+# Computer Graphic notes
 # 计算机图形学笔记
 
 一、直线绘制
